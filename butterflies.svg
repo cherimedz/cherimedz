@@ -1,0 +1,214 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#180002"/>
+      <stop offset="30%"  stop-color="#3a0008"/>
+      <stop offset="60%"  stop-color="#6D0008"/>
+      <stop offset="85%"  stop-color="#3a0008"/>
+      <stop offset="100%" stop-color="#180002"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#F45C7A" stop-opacity="0.20"/>
+      <stop offset="55%"  stop-color="#BF0513" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#6D0008" stop-opacity="0"/>
+    </radialGradient>
+    <!-- Wing fill gradients -->
+    <linearGradient id="wg1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#F45C7A"/>
+      <stop offset="100%" stop-color="#F29BA8"/>
+    </linearGradient>
+    <linearGradient id="wg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#BF0513"/>
+      <stop offset="100%" stop-color="#F45C7A"/>
+    </linearGradient>
+    <linearGradient id="wg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#F29BA8"/>
+      <stop offset="100%" stop-color="#F2CED8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="180" fill="url(#bg)"/>
+  <ellipse cx="450" cy="90" rx="430" ry="110" fill="url(#glow)"/>
+
+  <!-- ── Sparkles ── -->
+  <g transform="translate(55,22)">
+    <path d="M0,-6 L1.8,-1.8 L6,0 L1.8,1.8 L0,6 L-1.8,1.8 L-6,0 L-1.8,-1.8Z" fill="#F2CED8">
+      <animate attributeName="opacity" values="0;1;0.5;0" dur="2.2s" begin="0s"   repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="180" dur="2.2s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(840,22)">
+    <path d="M0,-6 L1.8,-1.8 L6,0 L1.8,1.8 L0,6 L-1.8,1.8 L-6,0 L-1.8,-1.8Z" fill="#F2CED8">
+      <animate attributeName="opacity" values="0;1;0.5;0" dur="1.9s" begin="0.5s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="180" dur="1.9s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(180,158)">
+    <path d="M0,-5 L1.5,-1.5 L5,0 L1.5,1.5 L0,5 L-1.5,1.5 L-5,0 L-1.5,-1.5Z" fill="#F29BA8">
+      <animate attributeName="opacity" values="0;0.9;0" dur="1.7s" begin="0.7s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="180" dur="1.7s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(720,158)">
+    <path d="M0,-5 L1.5,-1.5 L5,0 L1.5,1.5 L0,5 L-1.5,1.5 L-5,0 L-1.5,-1.5Z" fill="#F29BA8">
+      <animate attributeName="opacity" values="0;0.9;0" dur="2.1s" begin="1.3s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="180" dur="2.1s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(310,12)">
+    <path d="M0,-5 L1.5,-1.5 L5,0 L1.5,1.5 L0,5 L-1.5,1.5 L-5,0 L-1.5,-1.5Z" fill="#F45C7A">
+      <animate attributeName="opacity" values="0;0.8;1;0" dur="2.5s" begin="1.1s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="180" dur="2.5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(590,12)">
+    <path d="M0,-5 L1.5,-1.5 L5,0 L1.5,1.5 L0,5 L-1.5,1.5 L-5,0 L-1.5,-1.5Z" fill="#F45C7A">
+      <animate attributeName="opacity" values="0;0.8;0" dur="1.6s" begin="0.2s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="180" dur="1.6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(450,168)">
+    <path d="M0,-4 L1.2,-1.2 L4,0 L1.2,1.2 L0,4 L-1.2,1.2 L-4,0 L-1.2,-1.2Z" fill="#BF0513">
+      <animate attributeName="opacity" values="0;1;0" dur="2.0s" begin="0.4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="180" dur="2.0s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(100,90)">
+    <path d="M0,-4 L1.2,-1.2 L4,0 L1.2,1.2 L0,4 L-1.2,1.2 L-4,0 L-1.2,-1.2Z" fill="#827C48">
+      <animate attributeName="opacity" values="0;0.7;0" dur="3.0s" begin="1.8s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="180" dur="3.0s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(800,90)">
+    <path d="M0,-4 L1.2,-1.2 L4,0 L1.2,1.2 L0,4 L-1.2,1.2 L-4,0 L-1.2,-1.2Z" fill="#827C48">
+      <animate attributeName="opacity" values="0;0.7;0" dur="2.6s" begin="0.8s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="180" dur="2.6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- ── Floating hearts ── -->
+  <text x="140"  y="88"  text-anchor="middle" font-size="12" fill="#F45C7A" opacity="0">♥<animate attributeName="opacity" values="0;0.7;0" dur="3.2s" begin="0.5s"  repeatCount="indefinite"/></text>
+  <text x="760"  y="82"  text-anchor="middle" font-size="10" fill="#BF0513" opacity="0">♥<animate attributeName="opacity" values="0;0.8;0" dur="2.8s" begin="1.9s"  repeatCount="indefinite"/></text>
+  <text x="450"  y="18"  text-anchor="middle" font-size="9"  fill="#F2CED8" opacity="0">♥<animate attributeName="opacity" values="0;0.6;0" dur="3.5s" begin="2.3s"  repeatCount="indefinite"/></text>
+  <text x="350"  y="170" text-anchor="middle" font-size="8"  fill="#F29BA8" opacity="0">♥<animate attributeName="opacity" values="0;0.7;0" dur="2.0s" begin="0.9s"  repeatCount="indefinite"/></text>
+  <text x="550"  y="170" text-anchor="middle" font-size="8"  fill="#827C48" opacity="0">✦<animate attributeName="opacity" values="0;0.8;0" dur="2.5s" begin="1.6s"  repeatCount="indefinite"/></text>
+
+  <!-- ══════════════════════════════════════════════
+       BUTTERFLY 1  ·  large · Rosolio/Rosé Wine
+       Wavy path · 18 s · minimum wing scale 0.30
+  ══════════════════════════════════════════════ -->
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="-110,82; 180,62; 430,88; 680,68; 1010,78"
+      keyTimes="0;0.25;0.5;0.75;1"
+      calcMode="spline"
+      keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"
+      dur="18s" begin="-3s" repeatCount="indefinite"/>
+
+    <!-- body -->
+    <ellipse cx="0" cy="-1" rx="3" ry="13" fill="#BF0513"/>
+    <!-- antennae -->
+    <line x1="-2"  y1="-12" x2="-14" y2="-30" stroke="#F45C7A" stroke-width="1.5" stroke-linecap="round"/>
+    <circle cx="-14" cy="-30" r="2.8" fill="#827C48"/>
+    <line x1="2"   y1="-12" x2="14"  y2="-30" stroke="#F45C7A" stroke-width="1.5" stroke-linecap="round"/>
+    <circle cx="14"  cy="-30" r="2.8" fill="#827C48"/>
+
+    <!-- left wings — min scale 0.30 so always visible -->
+    <g>
+      <animateTransform attributeName="transform" type="scale"
+        values="1,1;0.30,1;1,1" keyTimes="0;0.5;1"
+        calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"
+        dur="0.46s" repeatCount="indefinite"/>
+      <!-- upper left wing -->
+      <path d="M0,-7 C-14,-30 -46,-38 -55,-18 C-47,-3 -22,6 0,-7Z"  fill="url(#wg1)" opacity="0.95"/>
+      <!-- lower left wing -->
+      <path d="M0,6  C-12,18 -40,32 -36,17 C-28,6 -10,4 0,6Z"       fill="#F29BA8"   opacity="0.80"/>
+    </g>
+    <!-- right wings -->
+    <g>
+      <animateTransform attributeName="transform" type="scale"
+        values="1,1;0.30,1;1,1" keyTimes="0;0.5;1"
+        calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"
+        dur="0.46s" repeatCount="indefinite"/>
+      <path d="M0,-7 C14,-30 46,-38 55,-18 C47,-3 22,6 0,-7Z"   fill="url(#wg1)" opacity="0.95"/>
+      <path d="M0,6  C12,18 40,32 36,17 C28,6 10,4 0,6Z"        fill="#F29BA8"   opacity="0.80"/>
+    </g>
+  </g>
+
+  <!-- ══════════════════════════════════════════════
+       BUTTERFLY 2  ·  medium · Rosette Nebula/Rosolio
+       Wavy path · 13 s · minimum wing scale 0.30
+  ══════════════════════════════════════════════ -->
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="-80,128; 220,112; 480,138; 730,118; 980,132"
+      keyTimes="0;0.25;0.5;0.75;1"
+      calcMode="spline"
+      keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"
+      dur="13s" begin="-8s" repeatCount="indefinite"/>
+
+    <!-- body -->
+    <ellipse cx="0" cy="-1" rx="2.4" ry="10" fill="#6D0008"/>
+    <!-- antennae -->
+    <line x1="-1.5" y1="-9"  x2="-11" y2="-23" stroke="#BF0513" stroke-width="1.3" stroke-linecap="round"/>
+    <circle cx="-11" cy="-23" r="2.2" fill="#827C48"/>
+    <line x1="1.5"  y1="-9"  x2="11"  y2="-23" stroke="#BF0513" stroke-width="1.3" stroke-linecap="round"/>
+    <circle cx="11"  cy="-23" r="2.2" fill="#827C48"/>
+
+    <g>
+      <animateTransform attributeName="transform" type="scale"
+        values="1,1;0.30,1;1,1" keyTimes="0;0.5;1"
+        calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"
+        dur="0.42s" repeatCount="indefinite"/>
+      <path d="M0,-5 C-11,-25 -37,-31 -44,-14 C-37,-2 -17,5 0,-5Z" fill="url(#wg2)" opacity="0.94"/>
+      <path d="M0,4  C-9,13  -30,25  -27,13  C-21,4  -8,3  0,4Z"   fill="#F45C7A"   opacity="0.80"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="scale"
+        values="1,1;0.30,1;1,1" keyTimes="0;0.5;1"
+        calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"
+        dur="0.42s" repeatCount="indefinite"/>
+      <path d="M0,-5 C11,-25 37,-31 44,-14 C37,-2 17,5 0,-5Z"  fill="url(#wg2)" opacity="0.94"/>
+      <path d="M0,4  C9,13  30,25  27,13  C21,4  8,3  0,4Z"    fill="#F45C7A"   opacity="0.80"/>
+    </g>
+  </g>
+
+  <!-- ══════════════════════════════════════════════
+       BUTTERFLY 3  ·  small · Rosé Wine/Roscid
+       Wavy path · 16 s · minimum wing scale 0.30
+  ══════════════════════════════════════════════ -->
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="-70,38; 160,52; 380,34; 640,50; 970,38"
+      keyTimes="0;0.25;0.5;0.75;1"
+      calcMode="spline"
+      keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"
+      dur="16s" begin="-12s" repeatCount="indefinite"/>
+
+    <!-- body -->
+    <ellipse cx="0" cy="-1" rx="2.0" ry="9" fill="#F45C7A"/>
+    <!-- antennae -->
+    <line x1="-1.3" y1="-8"  x2="-9"  y2="-19" stroke="#F29BA8" stroke-width="1.1" stroke-linecap="round"/>
+    <circle cx="-9"  cy="-19" r="1.9" fill="#827C48"/>
+    <line x1="1.3"  y1="-8"  x2="9"   y2="-19" stroke="#F29BA8" stroke-width="1.1" stroke-linecap="round"/>
+    <circle cx="9"   cy="-19" r="1.9" fill="#827C48"/>
+
+    <g>
+      <animateTransform attributeName="transform" type="scale"
+        values="1,1;0.30,1;1,1" keyTimes="0;0.5;1"
+        calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"
+        dur="0.38s" repeatCount="indefinite"/>
+      <path d="M0,-4 C-8,-20 -28,-24 -33,-11 C-27,-1 -13,4 0,-4Z" fill="url(#wg3)" opacity="0.95"/>
+      <path d="M0,3  C-7,10  -23,19  -21,10  C-16,3  -6,2  0,3Z"  fill="#F2CED8"   opacity="0.84"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="scale"
+        values="1,1;0.30,1;1,1" keyTimes="0;0.5;1"
+        calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"
+        dur="0.38s" repeatCount="indefinite"/>
+      <path d="M0,-4 C8,-20 28,-24 33,-11 C27,-1 13,4 0,-4Z"  fill="url(#wg3)" opacity="0.95"/>
+      <path d="M0,3  C7,10  23,19  21,10  C16,3  6,2  0,3Z"   fill="#F2CED8"   opacity="0.84"/>
+    </g>
+  </g>
+
+</svg>
