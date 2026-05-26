@@ -286,6 +286,18 @@ AI-driven freelancing platform built for the Allianz Digital University Awards. 
 
 <br/>
 
+<!-- ░░░░░░░░░░░░░░░░░░░░░░ CONTRIBUTION SNAKE ░░░░░░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cherimedz/cherimedz/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cherimedz/cherimedz/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/cherimedz/cherimedz/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+</div>
+
+<br/>
+
 <!-- ░░░░░░░░░░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C39583,25:967F59,50:786F50,75:582419,100:441015&height=120&section=footer" />
