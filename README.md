@@ -318,7 +318,7 @@ AI-driven freelancing platform built for the Allianz Digital University Awards. 
 
 <p>
 <sub>
-<strong>🐾 &nbsp; Poochu · Kathu · Tom · Sebastien · Simba · Kitty · Nymeria · Prince · Aaliyah</strong><br/>
+<strong>🐾 &nbsp; Poochu · Kathu · Tom · Sebastien · Simba · Kitty · Nymeria · Prince · Aaliyah · Kovu · Diana</strong><br/>
 <strong>🐾 &nbsp; Shinto · Bruno · Puppy</strong><br/><br/>
 <em>— my first code reviewers, loudest critics, and truest fans.</em>
 </sub>
@@ -337,7 +337,7 @@ I may not change the world in big ways, but because of you, I live in it with a 
 
 <br/>
 
-<p><sub>twelve cats · three dogs — a lifetime of love</sub></p>
+<p><sub>fourteen cats · three dogs — a lifetime of love</sub></p>
 <p><sub>Built with rose-tinted glasses &nbsp;·&nbsp; Powered by too much chai &nbsp;·&nbsp; Supervised by cats</sub></p>
 <p><sub><em>And always, always — in your honor. 🐾</em></sub></p>
 
