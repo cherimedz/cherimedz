@@ -42,7 +42,7 @@ AI-focused Software Engineer at **4Labs Technologies**, building production AI t
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
@@ -85,32 +85,32 @@ AI-focused Software Engineer at **4Labs Technologies**, building production AI t
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
 🌱 &nbsp; **RMS Phase 3** &nbsp;·&nbsp; *4Labs Technologies*<br/>
 AI interview & video-analysis platform — speech-to-text + LLM scoring<br/>
-<sub>`Django` `Next.js` `Gemini API`</sub>
+<sub>![Django](https://img.shields.io/badge/Django-582419?style=flat-square&logo=django&logoColor=C39583) ![Next.js](https://img.shields.io/badge/Next.js-441015?style=flat-square&logo=next.js&logoColor=C39583) ![Gemini API](https://img.shields.io/badge/Gemini_API-786F50?style=flat-square&logo=googlegemini&logoColor=C39583)</sub>
 
 <br/>
 
 🌱 &nbsp; **Stock Market AI**<br/>
 LangGraph agentic pipeline for autonomous market reasoning<br/>
-<sub>`LangGraph` `FastAPI` `MongoDB` `Docker`</sub>
+<sub>![LangGraph](https://img.shields.io/badge/LangGraph-582419?style=flat-square&logo=langchain&logoColor=C39583) ![FastAPI](https://img.shields.io/badge/FastAPI-441015?style=flat-square&logo=fastapi&logoColor=C39583) ![MongoDB](https://img.shields.io/badge/MongoDB-786F50?style=flat-square&logo=mongodb&logoColor=C39583) ![Docker](https://img.shields.io/badge/Docker-582419?style=flat-square&logo=docker&logoColor=C39583)</sub>
 
 </td>
 <td valign="top" width="50%">
 
 🌱 &nbsp; **Novaire** &nbsp;·&nbsp; *Ongoing*<br/>
 Multimodal prescription extraction — VLMs, OCR, drug interaction flagging<br/>
-<sub>`Streamlit` `HuggingFace` `pytesseract`</sub>
+<sub>![Streamlit](https://img.shields.io/badge/Streamlit-582419?style=flat-square&logo=streamlit&logoColor=C39583) ![HuggingFace](https://img.shields.io/badge/HuggingFace-786F50?style=flat-square&logo=huggingface&logoColor=441015) ![pytesseract](https://img.shields.io/badge/pytesseract-441015?style=flat-square&logo=python&logoColor=C39583)</sub>
 
 <br/>
 
 🌱 &nbsp; **Astravea**<br/>
 LLM + RAG disaster relief assistant — multilingual field report summaries<br/>
-<sub>`LLM` `RAG` `FastAPI`</sub>
+<sub>![LLM](https://img.shields.io/badge/LLM-582419?style=flat-square&logo=openai&logoColor=C39583) ![RAG](https://img.shields.io/badge/RAG-786F50?style=flat-square&logo=amazonwebservices&logoColor=C39583) ![FastAPI](https://img.shields.io/badge/FastAPI-441015?style=flat-square&logo=fastapi&logoColor=C39583)</sub>
 
 </td>
 </tr>
@@ -254,21 +254,21 @@ AI-driven freelancing platform built for the Allianz Digital University Awards. 
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
-🏅 &nbsp;Google Cloud Generative AI Track · 2025<br/><br/>
-🏅 &nbsp;Google Cloud Data Analytics Track · 2024<br/><br/>
-🏅 &nbsp;IBM AI Developer Professional Certificate · 2021<br/>
+![Google Cloud GenAI](https://img.shields.io/badge/Google_Cloud_Generative_AI_Track-786F50?style=flat-square&logo=googlecloud&logoColor=C39583) &nbsp; `2025`<br/><br/>
+![Google Cloud Data Analytics](https://img.shields.io/badge/Google_Cloud_Data_Analytics_Track-582419?style=flat-square&logo=googlecloud&logoColor=C39583) &nbsp; `2024`<br/><br/>
+![IBM AI Developer](https://img.shields.io/badge/IBM_AI_Developer_Professional-441015?style=flat-square&logo=ibm&logoColor=C39583) &nbsp; `2021`<br/>
 
 </td>
 <td valign="top" width="50%">
 
-🎓 &nbsp;MSc Computer Science — Data Analytics<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kerala University of Digital Sciences · 2023–2025<br/><br/>
-🎓 &nbsp;BSc Zoology<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Kerala · 2020–2023<br/>
+🎓 &nbsp;**MSc Computer Science — Data Analytics**<br/>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kerala University of Digital Sciences &nbsp;·&nbsp; 2023–2025</sub><br/><br/>
+🎓 &nbsp;**BSc Zoology**<br/>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Kerala &nbsp;·&nbsp; 2020–2023</sub><br/>
 
 </td>
 </tr>
