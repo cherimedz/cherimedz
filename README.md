@@ -254,25 +254,17 @@ AI-driven freelancing platform built for the Allianz Digital University Awards. 
 
 <br/>
 
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
-![Google Cloud GenAI](https://img.shields.io/badge/Google_Cloud_Generative_AI_Track-786F50?style=flat-square&logo=googlecloud&logoColor=C39583) &nbsp; `2025`<br/><br/>
-![Google Cloud Data Analytics](https://img.shields.io/badge/Google_Cloud_Data_Analytics_Track-582419?style=flat-square&logo=googlecloud&logoColor=C39583) &nbsp; `2024`<br/><br/>
-![IBM AI Developer](https://img.shields.io/badge/IBM_AI_Developer_Professional-441015?style=flat-square&logo=ibm&logoColor=C39583) &nbsp; `2021`<br/>
+![Google Cloud GenAI](https://img.shields.io/badge/Google_Cloud_Generative_AI_Track-786F50?style=flat-square&logo=googlecloud&logoColor=C39583) &nbsp; `2025`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Google Cloud Data Analytics](https://img.shields.io/badge/Google_Cloud_Data_Analytics_Track-582419?style=flat-square&logo=googlecloud&logoColor=C39583) &nbsp; `2024`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![IBM AI Developer](https://img.shields.io/badge/IBM_AI_Developer_Professional-441015?style=flat-square&logo=ibm&logoColor=C39583) &nbsp; `2021`
 
-</td>
-<td valign="top" width="50%">
+<br/>
 
-🎓 &nbsp;**MSc Computer Science — Data Analytics**<br/>
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kerala University of Digital Sciences &nbsp;·&nbsp; 2023–2025</sub><br/><br/>
-🎓 &nbsp;**BSc Zoology**<br/>
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Kerala &nbsp;·&nbsp; 2020–2023</sub><br/>
+🎓 &nbsp;**MSc Computer Science — Data Analytics** &nbsp; <sub>Kerala University of Digital Sciences &nbsp;·&nbsp; 2023–2025</sub>
 
-</td>
-</tr>
-</table>
+🎓 &nbsp;**BSc Zoology** &nbsp; <sub>University of Kerala &nbsp;·&nbsp; 2020–2023</sub>
+
+</div>
 
 <br/>
 
