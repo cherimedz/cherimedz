@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=20&duration=3000&pause=900&color=967F59&center=true&vCenter=true&width=660&lines=Zoologist+turned+AI+Engineer+%F0%9F%8C%BF;Building+systems+that+feel+almost+alive+%E2%9C%A8;LLMs+%C2%B7+Agentic+AI+%C2%B7+RAG+%C2%B7+NLP;Kerala+%E2%86%92+Code+%E2%86%92+Curiosity;Allianz+Innovation+Finalist+2024+%F0%9F%8F%86" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=20&duration=3000&pause=900&color=967F59&center=true&vCenter=true&width=660&lines=Zoologist+turned+AI+Engineer;Building+systems+that+feel+almost+alive;LLMs+%C2%B7+Agentic+AI+%C2%B7+RAG+%C2%B7+NLP;Kerala+%E2%86%92+Code+%E2%86%92+Curiosity;Allianz+Innovation+Finalist+2024" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-<sub><em>🌿 &nbsp; from the field to the model, the curiosity never changed &nbsp; 🌿</em></sub>
+<sub><em><img src="https://api.iconify.design/lucide/leaf.svg?color=%23967F59" width="12" /> &nbsp; from the field to the model, the curiosity never changed &nbsp; <img src="https://api.iconify.design/lucide/leaf.svg?color=%23967F59" width="12" /></em></sub>
 
 </div>
 
@@ -24,7 +24,7 @@
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░ ABOUT ░░░░░░░░░░░░░░░░░░░░░░ -->
 
-<p align="center">🌺 &nbsp; ✦ &nbsp; 🌿 &nbsp; ✦ &nbsp; 🌺 &nbsp; ✦ &nbsp; 🌿 &nbsp; ✦ &nbsp; 🌺</p>
+<p align="center"><img src="https://api.iconify.design/lucide/flower.svg?color=%23786F50" width="13" /> &nbsp; <img src="https://api.iconify.design/lucide/sparkle.svg?color=%23967F59" width="11" /> &nbsp; <img src="https://api.iconify.design/lucide/leaf.svg?color=%23786F50" width="13" /> &nbsp; <img src="https://api.iconify.design/lucide/sparkle.svg?color=%23967F59" width="11" /> &nbsp; <img src="https://api.iconify.design/lucide/flower.svg?color=%23786F50" width="13" /></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=52&color=0:441015,100:582419&text=About&fontSize=20&fontColor=C39583&fontAlignY=65&fontFamily=Cinzel&animation=fadeIn" />
 
@@ -38,7 +38,7 @@
 
 AI-focused Software Engineer at **4Labs Technologies**, building production AI that actually ships — Gemini-powered candidate scoring, real-time WebSocket pipelines, async email systems, and an AI-driven interview analysis platform in the works. Outside of work: autonomous agents, RAG systems built around regional Indian recipes, vision pipelines for medical prescriptions.
 
-**Finalist — Allianz Digital University Awards, Best Digital Innovation for Social Impact 2024 🏆**
+<img src="https://api.iconify.design/lucide/trophy.svg?color=%23967F59" width="14" /> &nbsp;**Finalist — Allianz Digital University Awards, Best Digital Innovation for Social Impact 2024**
 
 <br/>
 
@@ -46,16 +46,16 @@ AI-focused Software Engineer at **4Labs Technologies**, building production AI t
 <tr>
 <td valign="top" width="50%">
 
-🌿 &nbsp; Former zoologist → AI engineer — the curiosity about complex systems never changed, only the subject matter<br/><br/>
-🌍 &nbsp; Trilingual · English · Hindi · Malayalam<br/><br/>
-📖 &nbsp; Avid reader, proud member of a university reading club<br/>
+<img src="https://api.iconify.design/lucide/leaf.svg?color=%23786F50" width="14" /> &nbsp; Former zoologist → AI engineer — the curiosity about complex systems never changed, only the subject matter<br/><br/>
+<img src="https://api.iconify.design/lucide/globe.svg?color=%23786F50" width="14" /> &nbsp; Trilingual · English · Hindi · Malayalam<br/><br/>
+<img src="https://api.iconify.design/lucide/book-open.svg?color=%23786F50" width="14" /> &nbsp; Avid reader, proud member of a university reading club<br/>
 
 </td>
 <td valign="top" width="50%">
 
-🌺 &nbsp; From Kerala, India<br/><br/>
-🐈‍⬛ &nbsp; Cat mom — my debugging process involves talking to them<br/><br/>
-✨ &nbsp; Currently building five things simultaneously *(send help)*<br/>
+<img src="https://api.iconify.design/lucide/flower.svg?color=%23786F50" width="14" /> &nbsp; From Kerala, India<br/><br/>
+<img src="https://api.iconify.design/lucide/cat.svg?color=%23786F50" width="14" /> &nbsp; Cat mom — my debugging process involves talking to them<br/><br/>
+<img src="https://api.iconify.design/lucide/sparkles.svg?color=%23786F50" width="14" /> &nbsp; Currently building five things simultaneously *(send help)*<br/>
 
 </td>
 </tr>
@@ -65,21 +65,21 @@ AI-focused Software Engineer at **4Labs Technologies**, building production AI t
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░ IN FULL BLOOM ░░░░░░░░░░░░░░░░░░░░░░ -->
 
-<p align="center">🌺 &nbsp; ✦ &nbsp; 🌿 &nbsp; ✦ &nbsp; 🌺 &nbsp; ✦ &nbsp; 🌿 &nbsp; ✦ &nbsp; 🌺</p>
+<p align="center"><img src="https://api.iconify.design/lucide/flower.svg?color=%23786F50" width="13" /> &nbsp; <img src="https://api.iconify.design/lucide/sparkle.svg?color=%23967F59" width="11" /> &nbsp; <img src="https://api.iconify.design/lucide/leaf.svg?color=%23786F50" width="13" /> &nbsp; <img src="https://api.iconify.design/lucide/sparkle.svg?color=%23967F59" width="11" /> &nbsp; <img src="https://api.iconify.design/lucide/flower.svg?color=%23786F50" width="13" /></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=52&color=0:441015,100:786F50&text=In+Full+Bloom&fontSize=20&fontColor=C39583&fontAlignY=65&fontFamily=Cinzel&animation=fadeIn" />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/cherimedz/cherimedz/main/cat.svg" width="100%" alt="cats playing with feathers" />
   <br/>
-  <sub>🐾 &nbsp; Kiara · Coco · Princess · Ella &nbsp; — &nbsp; <em>the current supervisory board</em> &nbsp; 🐾</sub>
+  <sub><img src="https://api.iconify.design/lucide/paw-print.svg?color=%23967F59" width="12" /> &nbsp; Kiara · Coco · Princess · Ella &nbsp; — &nbsp; <em>the current supervisory board</em> &nbsp; <img src="https://api.iconify.design/lucide/paw-print.svg?color=%23967F59" width="12" /></sub>
 </div>
 
 <br/>
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░ CURRENTLY BUILDING ░░░░░░░░░░░░░░░░░░░░░░ -->
 
-<p align="center">🌿 &nbsp; ✦ &nbsp; 🌺 &nbsp; ✦ &nbsp; 🌿 &nbsp; ✦ &nbsp; 🌺 &nbsp; ✦ &nbsp; 🌿</p>
+<p align="center"><img src="https://api.iconify.design/lucide/leaf.svg?color=%23786F50" width="13" /> &nbsp; <img src="https://api.iconify.design/lucide/sparkle.svg?color=%23967F59" width="11" /> &nbsp; <img src="https://api.iconify.design/lucide/flower.svg?color=%23786F50" width="13" /> &nbsp; <img src="https://api.iconify.design/lucide/sparkle.svg?color=%23967F59" width="11" /> &nbsp; <img src="https://api.iconify.design/lucide/leaf.svg?color=%23786F50" width="13" /></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=52&color=0:582419,100:441015&text=Currently+Building&fontSize=20&fontColor=C39583&fontAlignY=65&fontFamily=Cinzel&animation=fadeIn" />
 
@@ -89,26 +89,26 @@ AI-focused Software Engineer at **4Labs Technologies**, building production AI t
 <tr>
 <td valign="top" width="50%">
 
-🌱 &nbsp; **RMS Phase 3** &nbsp;·&nbsp; *4Labs Technologies*<br/>
+<img src="https://api.iconify.design/lucide/sprout.svg?color=%23786F50" width="14" /> &nbsp; **RMS Phase 3** &nbsp;·&nbsp; *4Labs Technologies*<br/>
 AI interview & video-analysis platform — speech-to-text + LLM scoring<br/>
 <sub>![Django](https://img.shields.io/badge/Django-582419?style=flat-square&logo=django&logoColor=C39583) ![Next.js](https://img.shields.io/badge/Next.js-441015?style=flat-square&logo=next.js&logoColor=C39583) ![Gemini API](https://img.shields.io/badge/Gemini_API-786F50?style=flat-square&logo=googlegemini&logoColor=C39583)</sub>
 
 <br/>
 
-🌱 &nbsp; **Stock Market AI**<br/>
+<img src="https://api.iconify.design/lucide/sprout.svg?color=%23786F50" width="14" /> &nbsp; **Stock Market AI**<br/>
 LangGraph agentic pipeline for autonomous market reasoning<br/>
 <sub>![LangGraph](https://img.shields.io/badge/LangGraph-582419?style=flat-square&logo=langchain&logoColor=C39583) ![FastAPI](https://img.shields.io/badge/FastAPI-441015?style=flat-square&logo=fastapi&logoColor=C39583) ![MongoDB](https://img.shields.io/badge/MongoDB-786F50?style=flat-square&logo=mongodb&logoColor=C39583) ![Docker](https://img.shields.io/badge/Docker-582419?style=flat-square&logo=docker&logoColor=C39583)</sub>
 
 </td>
 <td valign="top" width="50%">
 
-🌱 &nbsp; **Novaire** &nbsp;·&nbsp; *Ongoing*<br/>
+<img src="https://api.iconify.design/lucide/sprout.svg?color=%23786F50" width="14" /> &nbsp; **Novaire** &nbsp;·&nbsp; *Ongoing*<br/>
 Multimodal prescription extraction — VLMs, OCR, drug interaction flagging<br/>
 <sub>![Streamlit](https://img.shields.io/badge/Streamlit-582419?style=flat-square&logo=streamlit&logoColor=C39583) ![HuggingFace](https://img.shields.io/badge/HuggingFace-786F50?style=flat-square&logo=huggingface&logoColor=441015) ![pytesseract](https://img.shields.io/badge/pytesseract-441015?style=flat-square&logo=python&logoColor=C39583)</sub>
 
 <br/>
 
-🌱 &nbsp; **Astravea**<br/>
+<img src="https://api.iconify.design/lucide/sprout.svg?color=%23786F50" width="14" /> &nbsp; **Astravea**<br/>
 LLM + RAG disaster relief assistant — multilingual field report summaries<br/>
 <sub>![LLM](https://img.shields.io/badge/LLM-582419?style=flat-square&logo=openai&logoColor=C39583) ![RAG](https://img.shields.io/badge/RAG-786F50?style=flat-square&logo=amazonwebservices&logoColor=C39583) ![FastAPI](https://img.shields.io/badge/FastAPI-441015?style=flat-square&logo=fastapi&logoColor=C39583)</sub>
 
@@ -120,7 +120,7 @@ LLM + RAG disaster relief assistant — multilingual field report summaries<br/>
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░ TECH STACK ░░░░░░░░░░░░░░░░░░░░░░ -->
 
-<p align="center">🌺 &nbsp; ✦ &nbsp; 🌿 &nbsp; ✦ &nbsp; 🌺 &nbsp; ✦ &nbsp; 🌿 &nbsp; ✦ &nbsp; 🌺</p>
+<p align="center"><img src="https://api.iconify.design/lucide/flower.svg?color=%23786F50" width="13" /> &nbsp; <img src="https://api.iconify.design/lucide/sparkle.svg?color=%23967F59" width="11" /> &nbsp; <img src="https://api.iconify.design/lucide/leaf.svg?color=%23786F50" width="13" /> &nbsp; <img src="https://api.iconify.design/lucide/sparkle.svg?color=%23967F59" width="11" /> &nbsp; <img src="https://api.iconify.design/lucide/flower.svg?color=%23786F50" width="13" /></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=52&color=0:441015,100:582419&text=Tech+Stack&fontSize=20&fontColor=C39583&fontAlignY=65&fontFamily=Cinzel&animation=fadeIn" />
 
@@ -152,13 +152,13 @@ LLM + RAG disaster relief assistant — multilingual field report summaries<br/>
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░ PROJECTS ░░░░░░░░░░░░░░░░░░░░░░ -->
 
-<p align="center">🌿 &nbsp; ✦ &nbsp; 🌺 &nbsp; ✦ &nbsp; 🌿 &nbsp; ✦ &nbsp; 🌺 &nbsp; ✦ &nbsp; 🌿</p>
+<p align="center"><img src="https://api.iconify.design/lucide/leaf.svg?color=%23786F50" width="13" /> &nbsp; <img src="https://api.iconify.design/lucide/sparkle.svg?color=%23967F59" width="11" /> &nbsp; <img src="https://api.iconify.design/lucide/flower.svg?color=%23786F50" width="13" /> &nbsp; <img src="https://api.iconify.design/lucide/sparkle.svg?color=%23967F59" width="11" /> &nbsp; <img src="https://api.iconify.design/lucide/leaf.svg?color=%23786F50" width="13" /></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=52&color=0:441015,100:582419&text=Projects&fontSize=20&fontColor=C39583&fontAlignY=65&fontFamily=Cinzel&animation=fadeIn" />
 
 <br/>
 
-<p><strong>🏢 &nbsp; Enterprise</strong></p>
+<p><strong><img src="https://api.iconify.design/lucide/building-2.svg?color=%23967F59" width="15" /> &nbsp; Enterprise</strong></p>
 
 <details>
 <summary><b>Recruitment Management System</b> &nbsp;—&nbsp; Production · 4Labs Technologies &nbsp;·&nbsp; Multi-tenant AI recruitment platform · 200+ REST APIs · ~40% improvement in candidate relevance</summary>
@@ -174,7 +174,7 @@ AI-powered candidate scoring and JD question generation via Gemini API. Automate
 
 <br/>
 
-<p><strong>🌿 &nbsp; Personal &amp; Open Source</strong></p>
+<p><strong><img src="https://api.iconify.design/lucide/leaf.svg?color=%23967F59" width="15" /> &nbsp; Personal &amp; Open Source</strong></p>
 
 <details>
 <summary><b><a href="https://github.com/cherimedz/velune">Velune</a></b> &nbsp;—&nbsp; Autonomous multi-agent AI · Plan → Execute → Critique → Remember pipeline · self-evaluating output · long-term semantic memory &nbsp;·&nbsp; LangChain · Qwen 2.5 72B · ChromaDB</summary>
@@ -187,12 +187,12 @@ A structured planner decomposes goals into 3–5 prioritized tasks. A LangChain 
 </details>
 
 <details>
-<summary><b><a href="https://github.com/cherimedz/rasaveda">Rasaveda</a></b> &nbsp;—&nbsp; RAG recipe intelligence · 108+ global & Indian recipes · pantry-to-plate matching · substitution suggestions · conversational chatbot &nbsp;·&nbsp; ChromaDB · FastAPI</summary>
+<summary><b><a href="https://github.com/cherimedz/rasaveda">Rasaveda</a></b> &nbsp;—&nbsp; Recipe intelligence on a 6.4M-param LLM trained from scratch · 168 global & Indian recipes · pantry-to-plate matching · 36 state themes on an interactive India map &nbsp;·&nbsp; PyTorch · ChromaDB · FastAPI</summary>
 <br/>
 
-Semantic ingredient-to-recipe matching using ChromaDB and Sentence Transformers. Features AI-driven recipe improvement analysis, ingredient gap analysis, a RAG chatbot, and a FastAPI REST layer. Five hand-crafted Indian regional UI themes.
+Semantic ingredient-to-recipe matching using ChromaDB and Sentence Transformers, with all generation handled by RasavedaGPT — a custom decoder-only transformer (6.4M params) pre-trained on WikiText-2 and fine-tuned on multi-task recipe data in pure PyTorch, no pre-trained weights. Features AI recipe improvement analysis, ingredient gap analysis, a RAG chatbot, and a Next.js frontend with 36 Indian state/UT themes selected from a geographically accurate SVG map of India.
 
-`ChromaDB` `Sentence Transformers` `Qwen 2.5 7B` `FastAPI` `Pydantic` `Streamlit`
+`PyTorch` `ChromaDB` `Sentence Transformers` `FastAPI` `Next.js` `TypeScript` `Railway` `Vercel`
 
 </details>
 
@@ -237,7 +237,7 @@ Pipeline extracting structured medication data from prescription images using Vi
 </details>
 
 <details>
-<summary><b>Seeker</b> &nbsp;—&nbsp; 🏆 Allianz Digital University Award Finalist 2024 · AI freelancing platform · intelligent skill matching & recommendation engine</summary>
+<summary><b>Seeker</b> &nbsp;—&nbsp; Allianz Digital University Award Finalist 2024 · AI freelancing platform · intelligent skill matching & recommendation engine</summary>
 <br/>
 
 AI-driven freelancing platform built for the Allianz Digital University Awards. Finalist — Best Digital Innovation for Social Impact 2024.
@@ -248,7 +248,7 @@ AI-driven freelancing platform built for the Allianz Digital University Awards. 
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░ CERTIFICATIONS & EDUCATION ░░░░░░░░░░░░░░░░░░░░░░ -->
 
-<p align="center">🌺 &nbsp; ✦ &nbsp; 🌿 &nbsp; ✦ &nbsp; 🌺 &nbsp; ✦ &nbsp; 🌿 &nbsp; ✦ &nbsp; 🌺</p>
+<p align="center"><img src="https://api.iconify.design/lucide/flower.svg?color=%23786F50" width="13" /> &nbsp; <img src="https://api.iconify.design/lucide/sparkle.svg?color=%23967F59" width="11" /> &nbsp; <img src="https://api.iconify.design/lucide/leaf.svg?color=%23786F50" width="13" /> &nbsp; <img src="https://api.iconify.design/lucide/sparkle.svg?color=%23967F59" width="11" /> &nbsp; <img src="https://api.iconify.design/lucide/flower.svg?color=%23786F50" width="13" /></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=52&color=0:441015,100:582419&text=Certifications+and+Education&fontSize=20&fontColor=C39583&fontAlignY=65&fontFamily=Cinzel&animation=fadeIn" />
 
@@ -260,15 +260,15 @@ AI-driven freelancing platform built for the Allianz Digital University Awards. 
 
 <br/>
 
-🎓 &nbsp;**MSc Computer Science — Data Analytics** &nbsp; <sub>Kerala University of Digital Sciences &nbsp;·&nbsp; 2023–2025</sub>
+<img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23967F59" width="15" /> &nbsp;**MSc Computer Science — Data Analytics** &nbsp; <sub>Kerala University of Digital Sciences &nbsp;·&nbsp; 2023–2025</sub>
 
-🎓 &nbsp;**BSc Zoology** &nbsp; <sub>University of Kerala &nbsp;·&nbsp; 2020–2023</sub>
+<img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23967F59" width="15" /> &nbsp;**BSc Zoology** &nbsp; <sub>University of Kerala &nbsp;·&nbsp; 2020–2023</sub>
 
 </div>
 
 <br/>
 
-<p align="center">🌿 &nbsp; ✦ &nbsp; 🌺 &nbsp; ✦ &nbsp; 🌿 &nbsp; ✦ &nbsp; 🌺 &nbsp; ✦ &nbsp; 🌿</p>
+<p align="center"><img src="https://api.iconify.design/lucide/leaf.svg?color=%23786F50" width="13" /> &nbsp; <img src="https://api.iconify.design/lucide/sparkle.svg?color=%23967F59" width="11" /> &nbsp; <img src="https://api.iconify.design/lucide/flower.svg?color=%23786F50" width="13" /> &nbsp; <img src="https://api.iconify.design/lucide/sparkle.svg?color=%23967F59" width="11" /> &nbsp; <img src="https://api.iconify.design/lucide/leaf.svg?color=%23786F50" width="13" /></p>
 
 <div align="center">
 
@@ -298,20 +298,20 @@ AI-driven freelancing platform built for the Allianz Digital University Awards. 
 
 <br/>
 
-<p>🕯️ &nbsp; <em>This page was built in the glow of a laptop screen, with a cat on the keyboard and a dog at my feet.</em> &nbsp; 🕯️</p>
+<p><img src="https://api.iconify.design/mdi/candle.svg?color=%23967F59" width="14" /> &nbsp; <em>This page was built in the glow of a laptop screen, with a cat on the keyboard and a dog at my feet.</em> &nbsp; <img src="https://api.iconify.design/mdi/candle.svg?color=%23967F59" width="14" /></p>
 
 <br/>
 
-<p>🐈‍⬛ &nbsp; <strong>Kiara, Coco, Princess &amp; Ella</strong> — the current QA team, always on duty <em>(especially during Zoom calls)</em></p>
+<p><img src="https://api.iconify.design/lucide/cat.svg?color=%23967F59" width="14" /> &nbsp; <strong>Kiara, Coco, Princess &amp; Ella</strong> — the current QA team, always on duty <em>(especially during Zoom calls)</em></p>
 
 <br/>
 
-<p>🕯️ &nbsp; <strong>Forever loved, never forgotten</strong> &nbsp; 🕯️</p>
+<p><img src="https://api.iconify.design/mdi/candle.svg?color=%23967F59" width="14" /> &nbsp; <strong>Forever loved, never forgotten</strong> &nbsp; <img src="https://api.iconify.design/mdi/candle.svg?color=%23967F59" width="14" /></p>
 
 <p>
 <sub>
-<strong>🐾 &nbsp; Poochu · Kathu · Tom · Sebastien · Simba · Kitty · Nymeria · Prince · Aaliyah · Kovu · Diana</strong><br/>
-<strong>🐾 &nbsp; Shinto · Bruno · Puppy</strong><br/><br/>
+<strong><img src="https://api.iconify.design/lucide/paw-print.svg?color=%23967F59" width="11" /> &nbsp; Poochu · Kathu · Tom · Sebastien · Simba · Kitty · Nymeria · Prince · Aaliyah · Kovu · Diana</strong><br/>
+<strong><img src="https://api.iconify.design/lucide/paw-print.svg?color=%23967F59" width="11" /> &nbsp; Shinto · Bruno · Puppy</strong><br/><br/>
 <em>— my first code reviewers, loudest critics, and truest fans.</em>
 </sub>
 </p>
@@ -331,7 +331,7 @@ I may not change the world in big ways, but because of you, I live in it with a 
 
 <p><sub>fourteen cats · three dogs — a lifetime of love</sub></p>
 <p><sub>Built with rose-tinted glasses &nbsp;·&nbsp; Powered by too much chai &nbsp;·&nbsp; Supervised by cats</sub></p>
-<p><sub><em>And always, always — in your honor. 🐾</em></sub></p>
+<p><sub><em>And always, always — in your honor. <img src="https://api.iconify.design/lucide/paw-print.svg?color=%23967F59" width="11" /></em></sub></p>
 
 <br/>
 
