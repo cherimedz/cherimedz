@@ -72,7 +72,7 @@ AI-focused Software Engineer at **4Labs Technologies**, building production AI t
 <div align="center">
   <img src="https://raw.githubusercontent.com/cherimedz/cherimedz/main/cat.svg" width="100%" alt="cats playing with feathers" />
   <br/>
-  <sub><img src="https://api.iconify.design/lucide/paw-print.svg?color=%23967F59" width="12" /> &nbsp; Kiara · Coco · Princess · Ella &nbsp; — &nbsp; <em>the current supervisory board</em> &nbsp; <img src="https://api.iconify.design/lucide/paw-print.svg?color=%23967F59" width="12" /></sub>
+  <sub><img src="https://api.iconify.design/lucide/paw-print.svg?color=%23967F59" width="12" /> &nbsp; Kiara · Princess &nbsp; — &nbsp; <em>the current supervisory board</em> &nbsp; <img src="https://api.iconify.design/lucide/paw-print.svg?color=%23967F59" width="12" /></sub>
 </div>
 
 <br/>
@@ -187,7 +187,7 @@ A structured planner decomposes goals into 3–5 prioritized tasks. A LangChain 
 </details>
 
 <details>
-<summary><b><a href="https://github.com/cherimedz/rasaveda">Rasaveda</a></b> &nbsp;—&nbsp; Recipe intelligence on a 6.4M-param LLM trained from scratch · 168 global & Indian recipes · pantry-to-plate matching · 36 state themes on an interactive India map &nbsp;·&nbsp; PyTorch · ChromaDB · FastAPI</summary>
+<summary><b><a href="https://github.com/cherimedz/rasaveda">Rasaveda</a></b> &nbsp;—&nbsp; Recipe intelligence on a 6.4M-param LLM trained from scratch · 365 curated recipes · pantry-to-plate matching · 36 state themes on an interactive India map &nbsp;·&nbsp; PyTorch · ChromaDB · FastAPI</summary>
 <br/>
 
 Semantic ingredient-to-recipe matching using ChromaDB and Sentence Transformers, with all generation handled by RasavedaGPT — a custom decoder-only transformer (6.4M params) pre-trained on WikiText-2 and fine-tuned on multi-task recipe data in pure PyTorch, no pre-trained weights. Features AI recipe improvement analysis, ingredient gap analysis, a RAG chatbot, and a Next.js frontend with 36 Indian state/UT themes selected from a geographically accurate SVG map of India.
@@ -243,6 +243,19 @@ Pipeline extracting structured medication data from prescription images using Vi
 AI-driven freelancing platform built for the Allianz Digital University Awards. Finalist — Best Digital Innovation for Social Impact 2024.
 
 </details>
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░ BLOG ░░░░░░░░░░░░░░░░░░░░░░ -->
+
+<p align="center"><img src="https://api.iconify.design/lucide/leaf.svg?color=%23786F50" width="13" /> &nbsp; <img src="https://api.iconify.design/lucide/sparkle.svg?color=%23967F59" width="11" /> &nbsp; <img src="https://api.iconify.design/lucide/flower.svg?color=%23786F50" width="13" /> &nbsp; <img src="https://api.iconify.design/lucide/sparkle.svg?color=%23967F59" width="11" /> &nbsp; <img src="https://api.iconify.design/lucide/leaf.svg?color=%23786F50" width="13" /></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=52&color=0:441015,100:582419&text=Latest+Blog+Posts&fontSize=20&fontColor=C39583&fontAlignY=65&fontFamily=Cinzel&animation=fadeIn" />
+
+<br/>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <br/>
 
@@ -302,7 +315,7 @@ AI-driven freelancing platform built for the Allianz Digital University Awards. 
 
 <br/>
 
-<p><img src="https://api.iconify.design/lucide/cat.svg?color=%23967F59" width="14" /> &nbsp; <strong>Kiara, Coco, Princess &amp; Ella</strong> — the current QA team, always on duty <em>(especially during Zoom calls)</em></p>
+<p><img src="https://api.iconify.design/lucide/cat.svg?color=%23967F59" width="14" /> &nbsp; <strong>Kiara &amp; Princess</strong> — the current QA team, always on duty <em>(especially during Zoom calls)</em></p>
 
 <br/>
 
@@ -310,7 +323,7 @@ AI-driven freelancing platform built for the Allianz Digital University Awards. 
 
 <p>
 <sub>
-<strong><img src="https://api.iconify.design/lucide/paw-print.svg?color=%23967F59" width="11" /> &nbsp; Poochu · Kathu · Tom · Sebastien · Simba · Kitty · Nymeria · Prince · Aaliyah · Kovu · Diana</strong><br/>
+<strong><img src="https://api.iconify.design/lucide/paw-print.svg?color=%23967F59" width="11" /> &nbsp; Poochu · Kathu · Tom · Sebastien · Simba · Kitty · Nymeria · Prince · Aaliyah · Kovu · Diana · Coco · Ella</strong><br/>
 <strong><img src="https://api.iconify.design/lucide/paw-print.svg?color=%23967F59" width="11" /> &nbsp; Shinto · Bruno · Puppy</strong><br/><br/>
 <em>— my first code reviewers, loudest critics, and truest fans.</em>
 </sub>
